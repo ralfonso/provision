@@ -34,7 +34,7 @@ Key Features:
 .. figure::  doc/images/dr_provision.png
    :align:   right
    :width: 350 px
-   :alt: Digital Rebar Provision
+   :alt: Digital Rebar Provision 123
    :target: https://github.com/digitalrebar/provision
 
 .. _rs_community:
